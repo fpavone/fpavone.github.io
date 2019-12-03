@@ -57,7 +57,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : "FritzPfau"
+  username               :
 facebook:
   username               :
   app_id                 :
@@ -85,9 +85,9 @@ author:
   bio              : "PhD Student in Statistics at Bocconi University"
   location         : "Milan, Italy"
   employer         :
-  pubmed           : 
-  googlescholar    : 
-  email            : 
+  pubmed           :
+  googlescholar    :
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -103,13 +103,13 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : 
+  orcid            :
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
