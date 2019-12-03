@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+The following is a non-detailed version of my curriculum vitae up to December 2019.
+
 Education
 ======
 * Ph.D student in Statistics, Bocconi University, (current)
