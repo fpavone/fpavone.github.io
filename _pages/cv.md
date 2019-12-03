@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in Mathematical Engineering, Politecnico di Milano, 2016
-* M.S. in Mathematical Engineering (major Applied Statistics), Politecnico di Milano, 2019
 * Ph.D student in Statistics, Bocconi University, (current)
+* M.S. in Mathematical Engineering (major Applied Statistics), Politecnico di Milano, 2019
+* B.S. in Mathematical Engineering, Politecnico di Milano, 2016
 
 Work experience
 ======
