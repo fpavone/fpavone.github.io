@@ -5,4 +5,4 @@ permalink: /talks/
 author_profile: true
 ---
 
-# talks
+- "Using reference models in variable selection", Cattolica University, Milan (webinar), 22/09/2020
