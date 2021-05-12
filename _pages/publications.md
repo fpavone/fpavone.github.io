@@ -1,16 +1,8 @@
 ---
 layout: archive
-title: "Publications"
+title: "publications"
 permalink: /publications/
 author_profile: true
 ---
 
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
+- Pavone, F., Piironen, J., Bürkner, P. C., & Vehtari, A. (2020). Using reference models in variable selection. arXiv preprint arXiv:2004.13118. (in review)
