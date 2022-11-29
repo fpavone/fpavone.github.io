@@ -7,8 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-hi, I'm a phd student in statistics at Bocconi University.
 
-I'm interested in different topics ranging from bayesian statistics, to causality and computational methods.
+I am a doctoral student in Statistics at Bocconi University under the supervision of [Daniele Durante](https://danieledurante.github.io/web/). I am strongly interested in the study and design of new statistical models and methods that can be used to solve open questions in applied fields. In particular, I am fascinated by the use of Bayesian methods in the field of social sciences and the impact they have in the society. 
 
-you can find my contacts and my google scholar among the link on the left, below my picture.
+
