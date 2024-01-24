@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a MathInGP PostDoctoral Fellow at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/) in the [CEREMADE](https://www.ceremade.dauphine.fr/) lab under the supervision of [Robin Ryder](https://sites.google.com/site/robryd/).
+I am MathInGP PostDoctoral Fellow at [Université Paris Dauphine-PSL](https://dauphine.psl.eu/) in the [CEREMADE](https://www.ceremade.dauphine.fr/) lab under the supervision of [Robin Ryder](https://sites.google.com/site/robryd/).
 
 I have obtained my PhD in Statistics at [Bocconi University](https://www.unibocconi.eu/) under the supervision of [Daniele Durante](https://danieledurante.github.io/web/) with a thesis entitled *Advances in Bayesian modelling of array structured data*.
 
