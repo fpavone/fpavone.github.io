@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Federico Pavone"
 title_separator          : "-"
 name                     : &name "Federico Pavone"
-description              : &description "PhD Student in Statistics, Bocconi University, Milan (Italy)"
+description              : &description "PostDoc in Statistics, PSL-Dauphine University"
 url                      : https://fpavone.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "fpavone/fpavone.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Federico Pavone"
   avatar           : "profilo_sorriso.jpg"
-  bio              : "PhD Student in Statistics at Bocconi University"
-  location         : "Milan, Italy"
+  bio              : "PostDoc at Université Paris Dauphine-PSL"
+  location         : "Paris, France"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.it/citations?user=Odn9XRkAAAAJ&hl=en"
